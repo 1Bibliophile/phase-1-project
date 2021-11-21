@@ -1,0 +1,110 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Outfit);
+
+body{
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#header {
+    border: 2px solid #fff;
+    margin-top: -10px;
+    height: 100%;
+    width: 101%;
+
+    border-color: black;
+    font-family: Raleway;
+    color: beige;
+    font-size: 60px;
+
+    background-color: maroon;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+h2 {
+    text-align: center;
+    
+}
+.search-button
+{
+    width: 100px;
+    height: 52px;
+
+    justify-content: center;
+    padding: none;
+    outline: none !important;
+
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background: #800000;
+    align-items: center;
+
+    color: white;
+    margin: none;
+    cursor: pointer;
+    font-family: Lato;
+    font-size: 20px;
+}
+
+#search-bar
+{
+    width: 500px;
+    height: 50px;
+    font-size: 25px;
+    font-family: Raleway;
+    font-weight: bold;
+    border: 2px solid black;
+    
+}
+
+#results-artwork img
+{
+    align-items: center;
+    margin: 20px;
+    width: auto;
+    cursor: pointer;
+}
+
+/*
+#likeButton
+{
+    cursor: pointer;
+}
+
+#likeButton.big
+{
+    transform: scale(1.2);
+    color: maroon;
+}
+*/
+
+/*
+#errorMessage
+{
+    border-radius: 10px;
+    background-color: red;
+    font-family: Outfit;
+    align-items: center;
+    justify-content: center;
+
+    margin: 1em;
+    padding: 1em;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+*/
+
+.art-info
+{
+    text-align: center;
+}

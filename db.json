@@ -1,0 +1,1930 @@
+{
+    "data": [
+    {
+    "id": 56166,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/56166",
+    "is_boosted": false,
+    "title": "Relief of a Falling Warrior",
+    "alt_titles": null,
+    "image": "https://www.artic.edu/iiif/2/9e4f8394-4072-5915-2eea-e55132035165/full/1686,/0/default.jpg",
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAAwMDQ4ODxoZGRwbGh0cGyknJi4sKjo6Ojo7PT09PUE/OktHP0JDRElGREpJSU5LSUxMTFBLQ1NOSFxXUGlhV3ZuYZGJfJmPgJ+Yi6GXiKGYiqqdi6afkrKmlbeqlrSsnbmypcu8otHCqgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQEBgUCAYBIpLhoPpTCIh0QfkoRwWFYtmI4EwEInGwxEEADs=",
+    "width": 7530,
+    "height": 5728,
+    "alt_text": "A work made of marble."
+    },
+    "main_reference_number": "1928.257",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 101,
+    "date_end": 200,
+    "date_display": "2nd century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Roman",
+    "place_of_origin": "Piraeus",
+    "dimensions": "53.3 × 81 × 17.5 cm (21 × 31 15/16 × 6 7/8 in.)",
+    "medium_display": "Marble",
+    "inscriptions": null,
+    "credit_line": "Gift of Alfred E. Hamill",
+    "publication_history": "Helen Comstock, “Five Centuries of Greek Sculpture,” International Studio 84 (May–August 1926), p. 33 (ill.)–34. \n\nArt Institute of Chicago, “An Exhibition of Classical Art,” Bulletin of the Art Institute of Chicago 21, 1 (January 1927), pp. 9–10, (ill.). \n\nDaniel Caton Rich, “A Late Greek Relief,” Bulletin of the Art Institute of Chicago 23, 6 (September 1929), pp. 102–103 (cover ill.). \n\nRalph Van Deman Magoffin and Emily Cleveland Davis, Magic Spades: The Romance of Archaeology (New York: Henry Holt and Company, 1929), pp. 323 (ill.), 328. \n\nA. D. Fraser, “The Sinking Warrior Relief,” in “General Meeting of the Archaeological Institute of America,” American Journal of Archaeology 31, 1 (January–March 1930), p. 58. \n\nPaul Jacobsthal, Die Melischen Reliefs, (Berlin: Verlag von Heinrich Keller, 1931), p.152.\n\nArt Institute of Chicago, A Brief Illustrated Guide To The Collections (Chicago: Art Institute of Chicago, 1935), p. 8 (ill.).\n\nHans Schrader, “Kopien nach dem Schildrelief,” in Corolla Ludwig Curtius zum sechzigsten Geburtstag dargebracht, ed. Heinrich Bulle (Stuttgart: Kohlhammer, 1937), p. 87, pl. 20, 2.\n\nA.D. Fraser, “The ‘Capaneus’ Reliefs of the Villa Albani and the Art Institute of Chicago,” American Journal of Archaeology 43, 3 (July–September 1939), pp. 447–457, fig. 2.\n\nFrank Brommer, “Zu den Schildreliefs der Athena Parthenos des Phidias,” Marburger Winckelmann-Programm (1948), p. 18 note 11. \n\nPhoivos D. Stavropoulous, I aspis tis Athinas Parthenou tou Pheidiou (Athens: Archaiologika etaireía, 1950), pp. 48–49, figs. 24–24a. \n\nGiovanni Becatti, Problemi Fidiaci (Milan: Electa, 1951), p. 114, pl. 67, fig. 202.\n\nErwin Bielefeld, Amazonomachia: Beiträge zur Geschichte der Motivwanderung in der antiken Kunst (Halle: Max Neimeyer Verlag, 1951), p. 19.\n\nGiulio Quirino Giglioli, Arte Greca: Arte Italico-Etrusca e Romana, (Rome: Casa Editrice Dotor Francesco Vallardi, 1955), pp. 407–408, fig. 338.\n\nDietrich von Bothmer, Amazons in Greek Art, (Oxford: Clarendon Press, 1957), p. 211, pl. 87, fig. 7.\n\nBarbara Schlorb, “Beitrage zur Schildamazonichie der Athena Parthenos,” Mitteilungen des Deutschen Archäologischen Instituts, Athenische Abteiung 78 (1963), p. 168.\n\nKristian Jeppesen, “Bild und Mythus an dem Parthenon,” Acta Archaeologica 34 (1963), p. 13, fig. 1s.\n\nAdolf Furtwängler, Masterpieces of Greek Sculpture: A Series of Essays on the History of Art, second edition (Chicago: Argonaut Publishers, 1964), plate C, fig. C2, plate F fig. F1.\n\nCornelius C. Vermeule III, Greek, Etruscan, and Roman Sculptures in the Museum of Fine Arts, Boston, American Journal of Archaeology 68, 4 (October, 1964), p. 326.\n\nPaolo Enrico Arias, Problemi di Scultura Greca, (R. Pàtron, 1965), p. 377.\n\nEvelyn B. Harrison, “The Composition of the Amazonomachy on the Shield of Athena Parthenos,” Hesperia 35, 2 (April–June 1966), p. 115.\n\nVolker Michael Strocka, Piräusreliefs und Parthenosschild: Versuch einer Wiederherstellung der Amazonomachie des Phidias, (Berlin: Wasmuth, 1967), pp. 69–71, cat. 13, fig. 27.\n\nNeda Leipen, Athena Parthenos: A Reconstruction, (Toronto: Royal Ontario Museum, 1971), pp. 9, 45.\n\nTheodosia Stephanidou, “Neoattika: hoi anaglyphoi pinakes apo to limani tou Peiraia,” (Ph.D. diss., University of Thessaloniki, 1979), pp. 15, 51 n. 5, 56 n. 3, 75 n. 3, 5 –8, 76 n. 1–2, 78 n. 7, 109, pl. 42.\n\nArt Institute of Chicago, “Calendar,” Bulletin of the Art Institute of Chicago 75, 2 (April–June 1981), p. 17 (ill.). \n\nCornelius C. Vermeule III, Greek and Roman Sculpture in America: Masterpieces in Public Collections in the United States and Canada, (Berkely: University of California Press; Los Angeles: J.Paul Getty Museum, 1981), pp. 21, 44, fig. 18, color plate 4.\n\nEvelyn B. Harrison, “Two Pheidian Heads: Nike and Amazon,\" in The Eye of Greece: Studies in the Art of Athens, ed. Donna Kurtz and Brian Sparkes (Cambridge: Cambridge University Press, 1982), p. 58, pl. 16d.\n\nPeter Bol, Forschungen zur Villa Albani: Katalog der antike Bildwerke, vol. 2 (Gebr. Mann Verlag, 1990), pp. 106–107.\n\nKaren Alexander, “The New Galleries of Ancient Art at the Art Institute of Chicago,” Minerva 5, 3 (May–June 1994), p. 34, fig. 13.\n\nSally Vallongo, “Toledo Curator Gives Chicago a Hand with its Old Treasures,” Toledo Blade, (August 17, 1994) p. P-1 (ill.). \n\nCornelius C. Vermeule III, “Roman Art,” in Ancient Art at the Art Institute of Chicago, The Art Institute of Chicago Museum Studies, 20, 1 (1994), pp. 70–72, cat. 48, fig. 48. \n\nEvelyn B Harrison, “Pheidias,” in Personal Styles in Greek Sculpture, ed. Olga Palagia and J. J. Pollitt (Cambridge: Cambridge University Press), fig. 14 and cover ill.\n\nClaire Cullen Davison, Pheidias: The Sculptures and Ancient Sources, Bulletin of the Institute of Classical Studies, Supplement 105, vol. 1  (Institute of Classical Studies, School of Advanced Studies, 2009), pp. 244–245, cat. 131, vol. 3, p. 1306, fig. 6.56.\n\nKaren B. Alexander, \"From Plaster to Stone: Ancient Art at the Art Institute of Chicago,\" in Karen Manchester, Recasting the Past: Collecting and Presenting Antiquities at the Art Institute of Chicago (Chicago: Art Institute of Chicago; New Haven: Yale University Press, 2012), p. 29.\n\nThe Art Institute of Chicago, The Essential Guide (Chicago: Art Institute of Chicago, 2013), p. 75.\n\nKatharine A. Raff, “Cat. 11 Relief of a Falling Warrior: Curatorial Entry,” in Roman Art at the Art Institute of Chicago (Art Institute of Chicago, 2016).\n\nRachel C. Sabino, with contributions by Lorenzo Lazzarini, “Cat. 11 Relief of a Falling Warrior: Technical Report,” in Roman Art at the Art Institute of Chicago (Art Institute of Chicago, 2016).",
+    "exhibition_history": "Art Institute of Chicago, An Exhibition of Classical Art, c. January 1927–unknown date.\n\nArt Institute of Chicago, Myth and Legend in Classical Art, Gallery 101A, March 1, 1987-August 31, 1987.\n\nArt Institute of Chicago, Sculpture from the Classical Collection, September 1, 1987–August 31, 1988.\n\nArt Institute of Chicago, The Human Figure in Greek and Roman Art: From the Permanent Collection, Part 2, January 13, 1989–February 21, 1990.\n\nArt Institute of Chicago, What’s Greek about a Roman Copy?, April 9–June 2, 2011.\n\nArt Institute of Chicago, Ancient Art Galleries, Gallery 156, April 20, 1994-February 6, 2012.\n\nArt Institute of Chicago, Of Gods and Glamour: The Mary and Michael Jaharis Galleries of Greek, Roman, and Byzantine Art, Gallery 152, November 11, 2012-present.",
+    "provenance_text": "Said to be found off the coast of Athens, 1925; sold to Jacob Hirsch (1874-1955), Geneva, Switzerland, 1925; sold to Alfred E. Hamill (1884-1953), Chicago; given to the Art Institute of Chicago, 1928.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 941,
+    "fiscal_year": 1928,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": true,
+    "has_educational_resources": false,
+    "colorfulness": 18.0038,
+    "color": {
+    "h": 37,
+    "l": 56,
+    "s": 12,
+    "percentage": 0.1393507697603278,
+    "population": 753
+    },
+    "latitude": 41.8794286686993,
+    "longitude": -87.6216989579888,
+    "latlon": "41.879428668699,41.879428668699",
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 154",
+    "gallery_id": 26777,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Arts of the Ancient Mediterranean and Byzantium",
+    "department_id": "PC-4",
+    "artist_id": 51349,
+    "artist_title": "Ancient Roman",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    51349
+    ],
+    "artist_titles": [
+    "Ancient Roman"
+    ],
+    "category_ids": [
+    "PC-4",
+    "PC-109"
+    ],
+    "category_titles": [
+    "Arts of the Ancient Mediterranean and Byzantium",
+    "Art Institute Icons"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "marble",
+    "carving",
+    "Classical",
+    "sculpture",
+    "mythology",
+    "marble",
+    "metamorphic rock",
+    "rock",
+    "inorganic material",
+    "relief",
+    "sculpture techniques",
+    "imperial (roman)",
+    "stone",
+    "ancient art",
+    "ancient"
+    ],
+    "style_id": "TM-4419",
+    "style_title": "Classical",
+    "alt_style_ids": [
+    "TM-4441",
+    "TM-8542"
+    ],
+    "style_ids": [
+    "TM-4419",
+    "TM-4441",
+    "TM-8542"
+    ],
+    "style_titles": [
+    "Classical",
+    "imperial (roman)",
+    "ancient"
+    ],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+    "TM-199",
+    "TM-96",
+    "TM-1392"
+    ],
+    "classification_ids": [
+    "TM-13",
+    "TM-199",
+    "TM-96",
+    "TM-1392"
+    ],
+    "classification_titles": [
+    "sculpture",
+    "marble",
+    "stone",
+    "ancient art"
+    ],
+    "subject_id": "TM-8766",
+    "alt_subject_ids": [],
+    "subject_ids": [
+    "TM-8766"
+    ],
+    "subject_titles": [
+    "mythology"
+    ],
+    "material_id": "TM-2435",
+    "alt_material_ids": [
+    "TM-2798",
+    "TM-2796",
+    "TM-2600"
+    ],
+    "material_ids": [
+    "TM-2435",
+    "TM-2798",
+    "TM-2796",
+    "TM-2600"
+    ],
+    "material_titles": [
+    "marble",
+    "metamorphic rock",
+    "rock",
+    "inorganic material"
+    ],
+    "technique_id": "TM-3863",
+    "alt_technique_ids": [
+    "TM-4058",
+    "TM-4053"
+    ],
+    "technique_ids": [
+    "TM-3863",
+    "TM-4058",
+    "TM-4053"
+    ],
+    "technique_titles": [
+    "carving",
+    "relief",
+    "sculpture techniques"
+    ],
+    "theme_titles": [
+    "Art Institute Icons"
+    ],
+    "image_id": "9e4f8394-4072-5915-2eea-e55132035165",
+    "alt_image_ids": [],
+    "document_ids": [
+    "381211f8-e646-2689-ab3e-41f5737f5834"
+    ],
+    "sound_ids": [
+    "381211f8-e646-2689-ab3e-41f5737f5834"
+    ],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [
+    99
+    ],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1928.257"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Relief of a Falling Warrior"
+    ],
+    "weight": 11935,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-05-03T18:46:03-05:00",
+    "last_updated": "2021-11-01T10:15:43-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 184108,
+    "image": "https://www.artic.edu/iiif/2/a7c8dbee-dd81-8ac4-43d0-5add68869cab/full/843,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/184108",
+    "is_boosted": false,
+    "title": "Untitled",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAABIRDxUUEjMuKj41Lz86NUFAPkxKSFlNQXBmXoR6cYZ8dIiDfpqUkJ6al6ihnqqoqa+rqLGtqbOtqLOxsbS0tLe3trq4tre3uLi5ubu6ubu7u7u8vby8vL29vb++vb6/v7+/v8LBv7/AwMDAwMHBwsLCwwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwBEpZMmISiCQJyEgLDqcj2QACBwgG00EUTAoJphKxcFoPC6UIAA7",
+    "width": 4288,
+    "height": 2848,
+    "alt_text": "A work made of cast pewter, edition number three of eight."
+    },
+    "main_reference_number": "2004.480",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1998,
+    "date_end": 2004,
+    "date_display": "1998/2004",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Robert Gober\nAmerican, born 1954",
+    "place_of_origin": "United States",
+    "dimensions": "7 × 3.2 cm (2 3/4 in. diameter × 1 1/4 in. deep)",
+    "medium_display": "Cast pewter, edition number three of eight",
+    "inscriptions": null,
+    "credit_line": "Mr. and Mrs. Frank G. Logan Prize Fund; through prior bequest of Marguerita S. Ritman; Norman Waite Harris Purchase Fund; Oscar L. Gerber Memorial and Robert and Marlene Baumgarten endowments; Alonzo C. Mather, Emilie L. Wild, Watson F. Blair, Laura Slobe Memorial prize funds",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 246,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "© Robert Gober.",
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 10.8032,
+    "color": {
+    "h": 43,
+    "l": 73,
+    "s": 0,
+    "percentage": 1.218013895949839,
+    "population": 5750
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Contemporary Art",
+    "department_id": "PC-8",
+    "artist_id": 55184,
+    "artist_title": "Robert Gober",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    55184
+    ],
+    "artist_titles": [
+    "Robert Gober"
+    ],
+    "category_ids": [
+    "PC-8"
+    ],
+    "category_titles": [
+    "Contemporary Art"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "sculpture",
+    "pewter",
+    "21st Century",
+    "pewter",
+    "installation"
+    ],
+    "style_id": "TM-12913",
+    "style_title": "21st Century",
+    "alt_style_ids": [],
+    "style_ids": [
+    "TM-12913"
+    ],
+    "style_titles": [
+    "21st Century"
+    ],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+    "TM-41",
+    "TM-1152"
+    ],
+    "classification_ids": [
+    "TM-13",
+    "TM-41",
+    "TM-1152"
+    ],
+    "classification_titles": [
+    "sculpture",
+    "pewter",
+    "installation"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2513",
+    "alt_material_ids": [],
+    "material_ids": [
+    "TM-2513"
+    ],
+    "material_titles": [
+    "pewter"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "a7c8dbee-dd81-8ac4-43d0-5add68869cab",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "2004.480"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Untitled"
+    ],
+    "weight": 371,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-05-03T18:46:38-05:00",
+    "last_updated": "2021-11-01T10:10:44-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 259606,
+    "image": "https://www.artic.edu/iiif/2/5fb029d5-9a59-4d48-c387-ade812aba5dd/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/259606",
+    "is_boosted": false,
+    "title": "Rhinoceros",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAIaBfI+JhZKMiJeQi5aRjZmTj52Wj6ihnKminKujnaqknq2lnayknq+nobWuqLauqLmyq7uyrL61r7+3scG4scS7s8W7s8/Fvc/FvtDGvtHGvtDHwNHHwNXLw9bLwtzSyd3Ty+DVzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwIuH09FsQCHLIyIhYD4GAUNQgGQWB8Ag4KBUJohGQhEEADs=",
+    "width": 8494,
+    "height": 6239,
+    "alt_text": "A work made of engraving and etching in black on ivory laid paper."
+    },
+    "main_reference_number": "2020.704",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1542,
+    "date_end": 1542,
+    "date_display": "1542, printed c. 1548",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Enea Vico (Italian, 1523–1567)\nafter Albrecht Dürer (German, 1471–1528)",
+    "place_of_origin": "Italy",
+    "dimensions": "265 x 362 mm (sheet, trimmed with platemark)",
+    "medium_display": "Engraving and etching in black on ivory laid paper",
+    "inscriptions": null,
+    "credit_line": "The Amanda S. Johnson and Marion J. Livingston Endowment Fund",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 2021,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 0,
+    "color": {
+    "h": 3,
+    "l": 26,
+    "s": 3,
+    "percentage": 0.0009189708145813912,
+    "population": 487
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 37153,
+    "artist_title": "Enea Vico",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    37153
+    ],
+    "artist_titles": [
+    "Enea Vico"
+    ],
+    "category_ids": [
+    "PC-13"
+    ],
+    "category_titles": [
+    "Prints and Drawings"
+    ],
+    "artwork_catalogue_ids": [
+    null
+    ],
+    "term_titles": [
+    "prints and drawing",
+    "ink",
+    "paper",
+    "print",
+    "etching",
+    "engraving",
+    "laid paper"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-4",
+    "classification_title": "prints and drawing",
+    "alt_classification_ids": [
+    "TM-145",
+    "TM-17",
+    "TM-18",
+    "TM-12"
+    ],
+    "classification_ids": [
+    "TM-4",
+    "TM-145",
+    "TM-17",
+    "TM-18",
+    "TM-12"
+    ],
+    "classification_titles": [
+    "prints and drawing",
+    "paper",
+    "print",
+    "etching",
+    "engraving"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2398",
+    "alt_material_ids": [
+    "TM-3070"
+    ],
+    "material_ids": [
+    "TM-2398",
+    "TM-3070"
+    ],
+    "material_titles": [
+    "ink",
+    "laid paper"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "5fb029d5-9a59-4d48-c387-ade812aba5dd",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "2020.704"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Rhinoceros"
+    ],
+    "weight": 1,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-21T13:24:55-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 146272,
+    "image": "https://www.artic.edu/iiif/2/7616bc53-7a4b-a7bb-0dac-131cf91aff80/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/146272",
+    "is_boosted": false,
+    "title": "The Marsh",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAC0fDygoGjYtHU84F0E2IkM8JUxGIU1BJE9BLFxHK1dNLkZAM2BRNWtSMmlfO3BcNnBdOGxdQndmQX9oQ2dxc29zcnN5fIB2YIF3Z5SGa1VyhmqEmGqEnHODkXGJoHaQp5OambCpn4SetZOjsOHTvpyvwa+6wN3RwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlQM2G0vFwPqKRZYApmUCV0MIgOZEQgAjD8chcCILDJNGAKAqBIAA7",
+    "width": 3000,
+    "height": 1984,
+    "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1996.649",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1840,
+    "date_end": 1840,
+    "date_display": "1840",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Constant Troyon\nFrench, 1810-1865",
+    "place_of_origin": "France",
+    "dimensions": "36 1/2 × 55 in. (93 × 140 cm)",
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Inscribed lower left: C. Troyon\nInscribed on inside of original frame: Mr. Levaigneur 1840",
+    "credit_line": "Purchased with funds provided by David and Mary Winton Green",
+    "publication_history": "Louis Soullié, Peintures, pastels, dessins de Constant Troyon, Librairies Spéciales des Catalogues de vente, Paris, 1900, p. 10. ?\n\nGloria Groom, “The Marsh,” Art Institute of Chicago Museum Studies 30, 1, pp. 64-65 (color ills.).",
+    "exhibition_history": "Chicago, Art Institute, Troyon’s “The Marsh,” May 9–August 2, 1998, no cat.",
+    "provenance_text": "Mme. Lavaigneur collection, probably by 1840 [inscribed on the inside of original frame: Mr. Levaigneur 1840]; her estate sale, Hôtel Drouot, Paris, May 2, 1912, lot 19 (ill.); sold to Lemaréchal for 24,100 Francs [acc. to Gazette de Hôtel Drouot (May 4, 1912)].  Robert Hellebranth, Paris.  Galerie Koller’s Sale, Zurich, November 11, 1981, lot 5047 (ill. 61); private collection; Sotheby’s Sale, London, June 12, 1996, lot 44 (ill.).  Stair Sainty Matthiesen Inc., New York, 1996; sold to the Art Institute, 1996.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1997,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 30.8527,
+    "color": {
+    "h": 207,
+    "l": 52,
+    "s": 20,
+    "percentage": 0.3129291615114138,
+    "population": 1472
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 222",
+    "gallery_id": 2147483607,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 37028,
+    "artist_title": "Constant Troyon",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    37028
+    ],
+    "artist_titles": [
+    "Constant Troyon"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "oil on canvas",
+    "painting",
+    "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-66",
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "oil on canvas",
+    "painting",
+    "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7616bc53-7a4b-a7bb-0dac-131cf91aff80",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1996.649"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "The Marsh"
+    ],
+    "weight": 1608,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-18T09:53:34-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 111671,
+    "image": "https://www.artic.edu/iiif/2/cd544f40-0226-b2ce-cf8a-419fde75d643/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111671",
+    "is_boosted": false,
+    "title": "King David Receiving the Cistern Water of Bethlehem",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAADs4LEI4M0k8NVE/OE1DOk1EOUtKSlpPS25ZUmVgWwAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIEJiS0DgikAgAOw==",
+    "width": 3059,
+    "height": 8714,
+    "alt_text": "A work made of oil on panel, transferred to canvas."
+    },
+    "main_reference_number": "1936.127",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1505,
+    "date_end": 1525,
+    "date_display": "1515–20",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Antwerp Mannerist (Master of the Antwerp Adoration group)\nNetherlandish",
+    "place_of_origin": "Belgium",
+    "dimensions": "73.5 × 27.5 cm (28 7/8 × 10 7/8 in.)\nImage: 72.7 × 26.8 cm (28 5/8 × 10 9/16 in.)",
+    "medium_display": "Oil on panel, transferred to canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Charles L. Hutchinson",
+    "publication_history": "Salomon Reinach, Répertoire de peintures du moyen âge et de la renaissance (1280–1580), vol. 2, Paris, 1907, p. 13, no. 1 (ill.; line drawing). \n\nJohn La Farge, “Art in America: Two Works Formerly Attributed to Herri met de Bles,” Burlington Magazine 12 (1908), pp. 387–88 (ill. opp. p. 387). \n\n“A Tour of the World of Art in 150 Masterpieces,” Masterpieces 1 (1950), p. 61 (ill. 1936.126). \n\nThe Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection, 1961, p. 300. \n\nGiovanni Carandente, Collections d’Italie, Répertoire 3, Brussels, 1968, p. 14. \n\nPeter van den Brink, in Jochen Sander, Gold, Weihrauch und Myrrhe: Die “von Grootesche Anbetung der Heiligen Drei Könige,” exh. cat., Frankfurt, Städelsches Kunstinstitut und Städtische Galerie, 2001, pp. 58, 60–61 (ill.). \n\nMartha Wolff, “Hebrew Kings and Antwerp Mannerists,” in Collected Opinions: Essays on Netherlandish Art in Honor of Alfred Bader, ed. Volker Manuth and Axel Rüger, London, 2004, pp. 279–93, figs. 1, 5–6.\n\nMartha Wolff in Martha Wolff et al., Northern European and Spanish Paintings before 1600 in the Art Institute of Chicago, Chicago, 2008, pp. 129-35, ill.\n\nCelia Hilliard, \"'The Prime Mover': Charles L. Hutchinson and the Making of the Art Institute of Chicago,\" Art Institute of Chicago Museum Studies 36,1 (2010), pp. 43, 89, fig. 11.\nAlison McQueen, From Renaissance to Rodin:  Celebrating the Tanenbaum Gift, Toronto, 2012, p. 30, under nos. 4 and 5.",
+    "exhibition_history": null,
+    "provenance_text": "Durand-Ruel, Paris, by 1880/82 [Durand-Ruel stockbook for these years; letter from Caroline Durand-Ruel Godfroy, Oct. 19, 1999, in curatorial file]; sold to Charles L. Hutchinson (d. 1924), Chicago, May 8, 1890 [shipped to Chicago on July 16, 1890, Art Institute Archive]; by descent to his widow, Frances Kinsley Hutchinson (d. 1936), Chicago; bequeathed to the Art Institute, 1936.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1936,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 25.735,
+    "color": {
+    "h": 39,
+    "l": 62,
+    "s": 55,
+    "percentage": 0.003950839701593077,
+    "population": 80
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 37488,
+    "artist_title": "Antwerp Mannerist",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    37488
+    ],
+    "artist_titles": [
+    "Antwerp Mannerist"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "oil on panel",
+    "painting",
+    "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-80",
+    "classification_title": "oil on panel",
+    "alt_classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-80",
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "oil on panel",
+    "painting",
+    "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cd544f40-0226-b2ce-cf8a-419fde75d643",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1936.127"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "King David Receiving the Cistern Water of Bethlehem"
+    ],
+    "weight": 2762,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-27T16:44:21-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 111670,
+    "image": "https://www.artic.edu/iiif/2/f66dd2f6-735b-3bbb-560f-66cd3ecea0e6/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111670",
+    "is_boosted": false,
+    "title": "King Solomon Receiving the Queen of Sheba",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhAgAFAPMAAD0vJU1AOE9DPFpLQWFHQHZgUXVgUnh0c4h4a5GGcwAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAACAAUAAAQIEISRikHkiAgAOw==",
+    "width": 3006,
+    "height": 8602,
+    "alt_text": "A work made of oil on panel, transferred to canvas."
+    },
+    "main_reference_number": "1936.126",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1515,
+    "date_end": 1520,
+    "date_display": "1515–20",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Antwerp Mannerist (Master of the Antwerp Adoration Group)\nNetherlandish",
+    "place_of_origin": "Belgium",
+    "dimensions": "73.2 × 27.7 cm (28 7/8 × 10 3/4 in.)\nImage: 72.7 × 27 cm (28 5/8 × 10 5/8 in.)",
+    "medium_display": "Oil on panel, transferred to canvas",
+    "inscriptions": null,
+    "credit_line": "Gift of Mrs. Charles L. Hutchinson",
+    "publication_history": "Salomon Reinach, Répertoire de peintures du moyen âge et de la renaissance (1280–1580), vol. 2, Paris, 1907, p. 13, no. 1 (ill.; line drawing). \n\nJohn La Farge, “Art in America: Two Works Formerly Attributed to Herri met de Bles,” Burlington Magazine 12 (1908), pp. 387–88 (ill. opp. p. 387). \n\n“A Tour of the World of Art in 150 Masterpieces,” Masterpieces 1 (1950), p. 61 (ill. 1936.126). \n\nThe Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection, 1961, p. 300. \n\nGiovanni Carandente, Collections d’Italie, Répertoire 3, Brussels, 1968, p. 14. \n\nPeter van den Brink, in Jochen Sander, Gold, Weihrauch und Myrrhe: Die “von Grootesche Anbetung der Heiligen Drei Könige,” exh. cat., Frankfurt, Städelsches Kunstinstitut und Städtische Galerie, 2001, pp. 58, 60–61 (ill.). \n\nMartha Wolff, “Hebrew Kings and Antwerp Mannerists,” in Collected Opinions: Essays on Netherlandish Art in Honor of Alfred Bader, ed. Volker Manuth and Axel Rüger, London, 2004, pp. 279–93, figs. 1, 5–6.\n\nMartha Wolff in Martha Wolff et al., Northern European and Spanish Paintings before 1600 in the Art Institute of Chicago, Chicago, 2008, pp. 129-35, ill.\n\nCelia Hilliard, \"'The Prime Mover': Charles L. Hutchinson and the Making of the Art Institute of Chicago,\" Art Institute of Chicago Museum Studies 36,1 (2010), pp. 43, 89, fig. 11.\n\nAlison McQueen, From Renaissance to Rodin:  Celebrating the Tanenbaum Gift, Toronto, 2012, p. 30, under nos. 4 and 5.",
+    "exhibition_history": null,
+    "provenance_text": "Durand-Ruel, Paris, by 1880/82 [Durand-Ruel stockbook for these years; letter from Caroline Durand-Ruel Godfroy, Oct. 19, 1999, in curatorial file]; sold to Charles L. Hutchinson (d. 1924), Chicago, May 8, 1890 [shipped to Chicago on July 16, 1890, Art Institute Archive]; by descent to his widow, Frances Kinsley Hutchinson (d. 1936), Chicago; bequeathed to the Art Institute, 1936.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1936,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 32.1986,
+    "color": {
+    "h": 45,
+    "l": 69,
+    "s": 81,
+    "percentage": 0.0011803379307495736,
+    "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 37488,
+    "artist_title": "Antwerp Mannerist",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    37488
+    ],
+    "artist_titles": [
+    "Antwerp Mannerist"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "oil on canvas",
+    "painting",
+    "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-66",
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "oil on canvas",
+    "painting",
+    "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "f66dd2f6-735b-3bbb-560f-66cd3ecea0e6",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1936.126"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "King Solomon Receiving the Queen of Sheba"
+    ],
+    "weight": 3675,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-27T16:44:21-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 111648,
+    "image": "https://www.artic.edu/iiif/2/7b0ea6ca-9424-050e-7e0e-3b67d2289480/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111648",
+    "is_boosted": false,
+    "title": "Peasants Bringing Home a Calf Born in the Fields",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAADMsJDQuJT4wJTwxKjo1KUI4KU4+LVU/KU9EMVFEMFtJNV9MNVNGOFhGOFpIOm5WNmxTOndeOWNQQG1cRHldQHBdSnBcTHliSnlhUIFtVYl0W497Y6CMdKyWewAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIBAQRdUxRoJo3EFBT7YJzhIp09BIFnaFADs=",
+    "width": 8582,
+    "height": 6843,
+    "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1894.1063",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1864,
+    "date_end": 1864,
+    "date_display": "1864",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jean-François Millet\nFrench, 1814-1875",
+    "place_of_origin": "France",
+    "dimensions": "31 15/16 × 39 3/8 in. (81.1 × 100 cm)",
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Inscribed at lower right: J.F. Millet",
+    "credit_line": "Henry Field Memorial Collection",
+    "publication_history": "Catalogue of the Collection of Books, Manuscripts and Works of Art Belonging to Henry Probasco, Cincinnati, Ohio (Cambridge, 1873), p. 398.\n\nAlfred Sensier, La Vie et lo’Oeuvre de Je. F. Millet (Paris, 1881), pp. 258, 263-269.\n\nC.C. Cook, Art and the Artists of Our Time vol. 3 (New York, 1888), p. 248.\n\nVincent Van Gogh, The Complete Letters of Vincent Van Gogh vol. 3 (Greenwich, 1958), letter p. 521 (early December, 1889).\n\n“Drift of the Dog Days,” The Collector 4, 16 (1893), p. 247.\n\n“Art Institute of Chicago: II – Modern Paintings: The Henry Field Collection,” Art Amateur 21, 1 (1894), p. 19. \n\n“The Henry Field Memorial Collection,” Art Amateur 31, 6 (1894), p. 115. \n\nJulia Ady Cartwright, Jean François Millet (London 1896), pp. 250 ff, 264 ff, 370.\n\nAlfred Sensier, Jean-François Millet (1896), p. 170-171.\n\nWilliam M. R. French, “The Permanent Collections in the Museum of the Art Institute of Chicago,” Brush and Pencil 1, 4 (1898), p. 81, ill. \n\nCharles Francis Browne, \"The Permanent Collections in the Museum of the Art Institute of Chicago: IV - The Henry Field Memorial Collection,\" Brush and Pencil 2, 1 (1898), pp. 2 (ill.), 7.\n\n“Chicago, ILL.: The Art Institute of Chicago,” in American Art Annual 1898 (London: Macmillan & Co., 1899), p. 140, no. 31.\n\n“Jean François Millet,” Masters in Art 1, 8 (1900), p. 35.\n\nFrederick Clifton Pierce, Field Genealogy, vol. 2 (Chicago: Hammond Press, 1901), pp. 709, 712, no. 31.\n\nRomain Rolland, Millet (London, 1902), p. 4, ill.\n\nJ. Cartwright, Jean François Millet: His Life and Letters (London, 1902,) pp. 251, 264, 370.\n\n“Collection of the Late Me. J. Staats-Forbes,” Burlington Magazine 5 (1904), ill.\n\nThe Art Institute of Chicago, Historical Sketch (Chicago, 1904), p 15 (ill.).\n\nThe Art Institute of Chicago, General Catalogue (Chicago, 1907) no. 131 (ill.).\n\nKenyon Cox, Artist and Public (London, 1914), pp. 63f (ill.).\n\nArthur Hoeber, The Barbizon Painters (1914), p. 59.\n\nEtienne Moreau-Nelaton, Millet, raconté par lui-même (Paris, 1921) vol. 2, pp. 73f, 115, 117, 144, 154 (ill), 160-162, vol. 3, pp. 115, 117.\n\n“ Millets in the Art Institute,” The Art Institute of Chicago Bulletin 18 (1924), pp. 88, 89 (ill.).\n\nThe Art Institute of Chicago, A Guide to the Paintings in the Permanent Collections (Chicago, 1925), pp. 50-51 (ill.).\n\nThe Art Institute of Chicago, A Guide to the Paintings in the Permanent Collection (Chicago, 1932), p. 47 (ill.).\n\nThe Art Institute of Chicago, Masterpieces in The Art Institute of Chicago (Chicago, 1952).\n\nThe Art Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961), p. 313.\n\nRobert L. Herbert, Barbizon Revisited, exh. cat. (San Francisco, California Palace of the Legion of Honor, 1962), p. 45.\n\nRobert L. Herbert, “Millet Reconsidered,” The Art Institute of Chicago Museum Studies I, (1966), pp. 43, 45ff, 60-61, 42 (ill.).\n\nRobert L. Herbert, “City vs. Country: The Rural Image in French Paintings From Millet to Gauguin,” ArtForum (February 1970), pp. 48, 50. \n\nThe Cleveland Museum of Art Bulletin (November 1973), pp. 266, 265 (ill.).\n\nPeter Bermingham, American Art in the Barbizon Mood, exh. cat (Washington D.C., The National Coalition of Fine Arts, Smithsonian Institute, 1975), p. 75 (ill.).\n\nJohn Minor Wisdom, French Nineteenth Century Oil Sketches: David to Degas, exh. cat. (Chapel Hill, N.C.: William Hayes Ackland Memorial Art Center, University of North Carolina 1978), p. 104, under no. 50.\n\nRichard Brettell, French Salon Artists, 1800-1900 (Chicago, 1987), pp. 49, 50 (ill.), 119.\n\nChantal Georgel, Millet (Paris: Citadelles & Mazenod, 2014), pp. 306, 308–9, fig. 295.\n\nSimon Kelly and April M. Watson, Impressionist France: Visions of Nation from Le Gray to Monet (Saint Louis Art Museum, Saint Louis, Missouri and The Nelson-Atkins Museum of Art, Kansas City Missouri, 2013) pp. 184-186, cat. 59 (ill.).\n\nBruno Girveau, Chantal Georgel, Régis Cotentin, Jean-François Millet, exh. cat. (Réunion des musées nationaux-Grand Palais, 2017), p. 25, 70-71, 141, cat. 34.",
+    "exhibition_history": "Paris, Salon, 1864, no. 1363.\n\nChicago, Worlds Columbian Exhibition: Loan Collection: Foreign Masterpieces Owned in the United States, 1893, no. 3063.\n\nThe Art Institute of Chicago, Century of Progress, Exhibition of Painting and Sculpture, June 1-November 1, 1933, cat 250.\n\nThe Art Institute of Chicago, Century of Progress, Exhibition of Painting and Sculpture, June 1- November 1, 1934, cat 196.\n\nParis, Centennale de l’Art Français, 1889, cat. 524.\n\nParis, Galeries nationales d’exposition de Grand Palais, Jean François Millet, October 17, 1975-January 5, 1976, cat. 164 (ill.). \n\nLondon, Hayward Gallery, Jean François Millet, January 22-March 7, 1976, cat. 88 (ill.).\n\nTokyo, The Seibu Museum of Art, The Impressionist Tradition: Masterpieces from the Art Institute of Chicago, October 18-December 17, 1985. cat. 9 (ill.), traveled to Fukuoka Art Museum, January 5-February 2, 1986 and Kyoto Municipal Muesum of Art, March 4-April 13, 1986.\n\nTokyo, ASAHI, Masterworks of Modern Art From The Art Institute of Chicago, cat. 3 (ill.), 1994, traveled to Nagaoka, Niiagata Prefectural Museum of Modern Art; Nagoya, Aichi Prefectural Museum of Art; and Yokohama Museum of Art, 1994-1995.\n\nAmsterdam, Van Gogh Museum, Fierce Friends: Artists and Animals in the Industrial Age, 1750-1920, October 5, 2005- February 5, 2006; Pittsburgh, Carnegie Museum of Art, March 26 - August 27, 2006.\n\nKansas City, MO, Nelson-Atkins Museum of Art, Impressionist France: Visions of Nation from Le Gray to Monet, October 19, 2013–January 19, 2014; Saint Louis Art Museum, February 22–May 25, 2014, cat. 59 (ill.).\n\nLille, Palais Beaux-Arts Lille, Jean-François Millet, Oct. 13, 2017- Jan. 22, 2018, cat. 34 (ill.).",
+    "provenance_text": "Henry Probasco (1820-1902), Cincinnati by 1873 [see Cambridge 1873]; his sale, New York, American Art Association, April 18, 1877, lot 94 [according to Paris 1975]. Mrs. Henry Field (née Florence Lathrop, later Mrs. Thomas Nelson Page), Chicago; given to the Art Institute, 1894.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": true,
+    "has_educational_resources": false,
+    "colorfulness": 28.2428,
+    "color": {
+    "h": 221,
+    "l": 48,
+    "s": 11,
+    "percentage": 0.0014121900242896684,
+    "population": 8
+    },
+    "latitude": 41.8798840482292,
+    "longitude": -87.6234095916151,
+    "latlon": "41.879884048229,41.879884048229",
+    "is_on_view": true,
+    "on_loan_display": null,
+    "gallery_title": "Gallery 222",
+    "gallery_id": 2147483607,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 35787,
+    "artist_title": "Jean François Millet",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    35787
+    ],
+    "artist_titles": [
+    "Jean François Millet"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "oil on canvas",
+    "Century of Progress",
+    "painting",
+    "european painting",
+    "world's fairs",
+    "Chicago World's Fairs"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-66",
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "oil on canvas",
+    "painting",
+    "european painting"
+    ],
+    "subject_id": "TM-12169",
+    "alt_subject_ids": [
+    "TM-11299",
+    "TM-12176"
+    ],
+    "subject_ids": [
+    "TM-12169",
+    "TM-11299",
+    "TM-12176"
+    ],
+    "subject_titles": [
+    "Century of Progress",
+    "world's fairs",
+    "Chicago World's Fairs"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "7b0ea6ca-9424-050e-7e0e-3b67d2289480",
+    "alt_image_ids": [],
+    "document_ids": [
+    "cacc92df-78e0-10a0-e654-549c68e235cb"
+    ],
+    "sound_ids": [
+    "cacc92df-78e0-10a0-e654-549c68e235cb"
+    ],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1894.1063"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Peasants Bringing Home a Calf Born in the Fields"
+    ],
+    "weight": 4745,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-18T09:53:34-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 111456,
+    "image": "https://www.artic.edu/iiif/2/318b7761-6765-7273-36c6-2ebc1fb41e22/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111456",
+    "is_boosted": false,
+    "title": "Virgin and Child",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAC0jHxwmICAqIjk7OkUpIko5LWs4Kk9CN2BVOWhbPk5AQHRcRXBeTW1kSWxkSnxsUJN2TYJsUoRuV413YQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYJAgggNFzTJJj6EwA3EUQAgAOw==",
+    "width": 1689,
+    "height": 2250,
+    "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1957.47",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1515,
+    "date_end": 1525,
+    "date_display": "about 1520",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jan Gossart\nNetherlandish, c. 1478–1532",
+    "place_of_origin": "Netherlands",
+    "dimensions": "21 × 15 7/8 in. (53.4 × 40.2 cm)",
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Charles H. and Mary F. S. Worcester Collection",
+    "publication_history": "Max J. Friedländer, Von Eyck bis Brueghel: Studien zur Geschichte der niederländerischen Malerei, 2nd ed. (Berlin, 1921), pp. 133, 198. \n\nFriedrich Winkler, \"Gossaert\" in Thieme-Becker vol. 14, Leipzig, 1921, p. 412.  \n\nMartin Conway, The Van Eycks and their Followers (London, 1921), p. 373.  \n\nAchille Segard, Jean Gossart dit Mabuse (Brussels and Paris, 1923), pp. 68-69, 185, no. 53, ill. opp. p. 64. \n\nMax J. Friedländer, Die altniederländische Malerei (Berlin, 1930), vol. 8, p. 156, no. 33 (rev. ed. 1972, pp. 94-95, no. 33, pl. 32).  \n\nMax J. Friedländer, Early Netherlandish Painting: From Van Eyck to Bruegel (London, 1956), p. 103. \n\nThe Art Institute of Chicago Quarterly 51 (1956/57), pp. 88-89, ill. \n\n\"Accessions of American and Canadian Museums, April-June, 1957,\" The Art Quarterly, 20 (1957), p. 318, ill. p. 320.  \n\nGert von der Osten, \"Studien zu Jan Gossaert\" in De Artibus Opuscula XL: Essays in Honor of Erwin Panofsky, ed. Millard Meiss (New York, 1961), p. 465.  \n\nThe Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago, 1961) p. 200, ill. p. 137.  \n\nSadja Jacob Herzog, \"Jan Gossart, called Mabuse (ca. 1478-1532), A Study of his Chronology with a Catalogue of his Works\", PhD. dissertation, Bryn Mawr College, 1968, pp. 272-273, no. 29, pl. 36. \n\nJohn Maxon, The Art Institute of Chicago (London,  1970), p. 283, ill. p. 252. \n\nWalter S. Gibson, \"Jan Gossart de Mabuse:  Madonna and Child in a Landscape,\"  The Bulletin of the Cleveland Museum of Art, 61 (1974), p. 292, fig. 10.  \n\nMasterworks of the Gemäldegalerie, Berlin with a History of the Collection (New York, 1986), p. 274, ill. \n\nLarry Silver, The Paintings of Quinten Massys with Catalogue Raisonné (Montclair, N.J., 1984), p. 183, pl. 172. \n\nLarry Silver, \"Figure nude, historie e poesie: Jan Gossaert and the Renaissance Nude in the Netherlands,\" Nederlands Kunsthistorisch Jaarboek 37 (1986), pp. 11, 24, fig. 38. \n\nLarry Silver, \"The 'Gothic' Gossaert:  Native and Traditional Elements in a Mabuse Madonna,\" Pantheon 45 (1987), p. 59, fig. 3.  \n\nGuy Bauman and  Walter A. Liedtke, Flemish Paintings in America: A Survey of Early Netherlandish and Flemish Paintings in the Public Collections of North America (Antwerp, 1992), p. 337, no. 250, ill.\n\nJefferson C. Harrison, \"Jan Gossaert's Madonna and Child: A Newly Proposed Mabuse Triptych,\" The Chrysler Museum Journal 1 (1994), pp. 8, 10, fig. 6.\n\nDidier Martens, \"Un Tüchlein flamand de la Renaissance au château de Peralada et le Maître de la Madone,\" Locus Amoenus 6 (2002/2003), pp. 126-27, fig. 16.\n\nMartha Wolff in Martha Wolff et al., Northern European and Spanish Paintings before 1600 in the Art Institute of Chicago, Chicago, 2008, pp. 227–31, ill. as frontispiece, p. 228.\n\nNancy H. Yeide, Beyond the Dreams of Avarice: The Hermann Goering Collection, Dallas, 2009, pp. 120, ill., 336, no. A801.\n\nShira Brisman, \"Jan Gossart's Immaculate Art,\" in Peter Bokody and Alexander Nagel, eds., Renaissance Metapainting (London and Turnhout: Harvey Miller, 2020), 269, 270 fig. 2, 275, 277, 280-81, 283-84, 286 fig. 8, 287, 290.",
+    "exhibition_history": "Tourcoing, Musée d'Art, Exhibition, 1906, cat. no. 18.\n\nThe Art Institute of Chicago, New Light on Old Masters: Research on Northern European and Spanish Paintings before 1600 in the Art Institute, 26 June—14 September 2008, no cat. \n\nMetropolitan Museum of Art, Man, Myth, and Sensual Pleasures:  Jan Gossart's Renaissance, October 5, 2010 - Jan 17, 2011, no. 14.",
+    "provenance_text": "Etienne-Edmond Martin, 2nd Baron de Beurnonville, Paris; sold Paris, 9-16 May, 1881, no. 289, ill., for 4,000 francs to Baer [annotated sale cat. in Bibliothèque Nationale, Paris]. Dr. Max Wassermann (died 1932), Paris, by 1906 [lent by him to Tourcoing 1906]; his widow; confiscated by the Einsatzstab Reichsleiter Rosenberg (E.R.R.) from the Banque de l’Union Parisienne where it had been placed on deposit [Consolidated Interrogation Report no. 2, 1945, p. 27 and 26 May 2000 report of Louis Amigues in curatorial file]; transferred to the collection of Hermann Goering and recovered by the Allies in Berchtesgaden, then sent to the Central Collecting Point, Munich on August 1, 1945 (Munich property card no. 6168) and returned to France on September 19, 1946; returned to Mme Pierre Lemand, née Wassermann, on 29 November, 1946 [Louis Amigues report and 19 May 2000 letter from Françoise Cachin to James Wood]; sold by the heirs of Max Wassermann to Wildenstein and Co, 1954 [4 April 2000 letter of Daniel Wildenstein and letter of 17 September 1999 of Joseph Baillio, both in curatorial file]; Wildenstein and Co., Paris and New York, from 1954 to 1957; sold to the Art Institute, 1957.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 38.3443,
+    "color": {
+    "h": 49,
+    "l": 38,
+    "s": 8,
+    "percentage": 0.07975163966202206,
+    "population": 755
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 10052,
+    "artist_title": "Jan Gossart",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    10052
+    ],
+    "artist_titles": [
+    "Jan Gossart"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "oil on panel",
+    "painting",
+    "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-80",
+    "classification_title": "oil on panel",
+    "alt_classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-80",
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "oil on panel",
+    "painting",
+    "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "318b7761-6765-7273-36c6-2ebc1fb41e22",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1957.47"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Virgin and Child"
+    ],
+    "weight": 3647,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-27T16:44:21-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 111453,
+    "image": "https://www.artic.edu/iiif/2/e88a2253-69a0-425e-32d1-e9640111ef39/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/111453",
+    "is_boosted": false,
+    "title": "Landscape with the Penitent Saint Jerome",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAC4oFUQ7J0xEK1RAJFZDLVlELFRFNFlNOmBLNmdTPmhSPkxNQFxUQ1NaS19cSGJlT2tqV2VoXVZua1xwb2BuZGt/fm1/fnKUoY2anZCZnI+lrZGipJmqsaKpqaGtrqexs6eztLG3trG4uAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwEzn4gl9NBULhiMCbR6QyERCaRwUBsbCIQgkEIMCARAEADs=",
+    "width": 3000,
+    "height": 2101,
+    "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1953.27",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1530,
+    "date_end": 1540,
+    "date_display": "1530–40",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Antwerp",
+    "place_of_origin": "Belgium",
+    "dimensions": "15 × 21 7/16 in. (38.1 × 54.5 cm); painted surface 14 15/16 × 21 3/8 in. (37.9 × 54.3 cm)",
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "Robert A. Waller Memorial Fund",
+    "publication_history": "Art Institute of Chicago, Paintings in The Art Institute of Chicago: A Catalogue of the Picture Collection, Chicago, 1961, p. 351. \n\nHerbert Friedmann, A Bestiary for Saint Jerome: Animal Symbolism in European Religious Art, Washington, D.C., 1980, p. 338.",
+    "exhibition_history": "Columbus (Ohio) Gallery of Fine Arts, A Tour of Famous Cities, 1952, no. 33.",
+    "provenance_text": "Comte de Bousies, Brussels [according to a fact sheet in the curatorial file, presumably provided by Knoedler; an annotation on the mount of a photograph in the Friedländer Archive, at the Rijksbureau voor Kunsthistorische Documentatie, The Hague, supports this provenance, though the name is transcribed as “de Bourier”]. Probably Eric-Emil Lyndhurst, Brussels, by January 1950 [the mount of the photograph mentioned above indicates that Friedländer’s opinion was provided for “Lyndhurst, Brussels” on January 5, 1950; whether the collector and dealer Eric-Emil Lyndhurst owned the picture or handled it as an agent is unclear; it was not among his stock confiscated during World War II, according to letter of 22 January, 2002 from Bart Eeman, Belgian Ministry of Economic Affairs, in curatorial file]. Sale, Palais des Beaux-Arts, Brussels, May 21, 1951, no. 115, pl. 7, as Patinir. Knoedler, New York, by 1952 [Lent by Knoedler to 1952 exhibition]; sold to the Art Institute, 1953.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 26.2591,
+    "color": {
+    "h": 6,
+    "l": 39,
+    "s": 44,
+    "percentage": 0.004825381506725375,
+    "population": 24
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": null,
+    "artist_title": "Unknown",
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "painting",
+    "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "painting",
+    "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "e88a2253-69a0-425e-32d1-e9640111ef39",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1953.27"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Landscape with the Penitent Saint Jerome"
+    ],
+    "weight": 3147,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-27T16:44:21-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 110527,
+    "image": "https://www.artic.edu/iiif/2/4ac46654-f276-369f-f2fe-dadb30838b30/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/110527",
+    "is_boosted": false,
+    "title": "Landscape with Tournament and Hunters",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhDAAFAPUAACYXFSsZFSsbFjskGT4lGT4nGzYtGzIrHDUuHTssGz0vHj42Hj84ID08LUApHEAvHUIuHkA3G0AwHUcwH04xHks4H1k7H2U7HkYvIEM0Ikc2Iko0IUk0I0k3Jkw8Iko4JnZGH01FIkpGMElNO0tOPU1SPmRKJmNQKGRZQGpcQXNvU3BwVoN/YoSFaIqKbo6chpSikpqplJ6slJCnnJSpnpWtnpqvnaa3qKy8q7PCr7TDrgAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAMAAUAAAY3QNiMdsPldK9YzSZDpVQsV2slapRGpAvIYjqFIobDgoHgbCCPjMZTSUgkCsyA4Jh8OpQCICAIAgA7",
+    "width": 3000,
+    "height": 1242,
+    "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1990.560",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1519,
+    "date_end": 1520,
+    "date_display": "1519–20",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Jan van Scorel\nNetherlandish, 1495-1562",
+    "place_of_origin": "Netherlands",
+    "dimensions": "57.8 × 138.5 cm (22 3/4 × 54 9/16 in.)",
+    "medium_display": "Oil on panel",
+    "inscriptions": null,
+    "credit_line": "George F. Harding Collection",
+    "publication_history": "Friedrich Winkler, “Jan Scorel oder “Zuan Fiamengo,” Oud Holland 48 (1931), p. 176, fig. 2. \n\nM[olly] F[aries], in Fiamminghi a Roma, 1508–1608, exh. cat., Brussels, Palais des Beaux-Arts, and Rome, Palazzo delle Esposizioni, 1995, p. 255, under no. 179. \n\nMolly Faries and Martha Wolff, “Landscape in the Early Paint ings of Jan van Scorel,” Burlington Magazine 138 (1996), pp. 724–33, figs. 2, 5, 17, 18.\n\nMolly Faries, “Scorel, Jan van,” in Dictionary of Art, vol. 28, 1996, p. 216.\n\nMonika Anne Schmitter, “7e Display of Distinction: Art Collecting and Social Status in Early Sixteenth-Century Venice,” Ph.D. diss., University of Michigan, 1997, pp. 69, 76. \n\nMolly Faries, “Jan van Scorel’s Jerusalem Landscapes,” in In Detail: New Studies of Northern Renaissance Art in Honor of Walter S. Gibson, ed. Laurinda S. Dixon, Turnhout, 1998, pp. 114–16, 128, 131, fig. 2. \n\nJill Dunkerton, “North and South: Painting Techniques in Venice,” in Renaissance Venice and the North: Crosscurrents in the Time of Bellini, Dürer and Titian, exh. cat., ed. Bernard Aikema and Beverly Louise Brown, Venice, Palazzo Grassi, 1999, p.\n102. \n\nBeverly Louise Brown, in Renaissance Venice and the North, p. 462, under no. 125. \n\nMolly Faries, “Another New Early Jan van Scorel,” in Polyptiek: Een veelluik van Groninger bijdragen aan de kunstgeschiedenis, ed. Henk Th. van Veen et al., Zwolle, 2002, pp. 42–44, 47, 221–22.\n\nMartha Wolff in Martha Wolff et al., Northern European and Spanish Paintings before 1600 in the Art Institute of Chicago, Chicago, 2008, pp. 297-301, ill.",
+    "exhibition_history": "New York, Corona Mundi International Art Center (Roerich Museum), Exhibition of Old Masters, 1927, no. 1, as Vinckboons.\n\nArt Institute of Chicago, On the Road to Italy: Early Paintings by Dutch Renaissance Master Jan van Scorel, 1998 (no cat.).",
+    "provenance_text": "R. Sabelsky, Saint Petersburg [according to the catalogue of the Roerich sale in 1930 cited below]. Roerich Museum, New York, by 1927 [according to the catalogue of the Roerich sale]; sold, American Art Association, Anderson Galleries, New York, Mar. 27–28, 1930, no. 128. George F. Harding, Jr. (d. 1939), Chicago; bequeathed to the George F. Harding Museum, Chicago; ownership transferred to the Art Institute, 1982; accessioned, 1990.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1991,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 30.5767,
+    "color": {
+    "h": 49,
+    "l": 67,
+    "s": 92,
+    "percentage": 0.0006797934787411584,
+    "population": 2
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 41371,
+    "artist_title": "Jan van Scorel",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    41371
+    ],
+    "artist_titles": [
+    "Jan van Scorel"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "painting",
+    "landscapes",
+    "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "painting",
+    "european painting"
+    ],
+    "subject_id": "TM-8657",
+    "alt_subject_ids": [],
+    "subject_ids": [
+    "TM-8657"
+    ],
+    "subject_titles": [
+    "landscapes"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "4ac46654-f276-369f-f2fe-dadb30838b30",
+    "alt_image_ids": [
+    "c1c6a825-1cfb-14ae-0dd3-58e166f45c1c"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1990.560"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Landscape with Tournament and Hunters"
+    ],
+    "weight": 3316,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-27T16:44:21-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 109487,
+    "image": "https://www.artic.edu/iiif/2/11d1c6e6-f051-0a5e-5c7b-57f935b6d181/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109487",
+    "is_boosted": false,
+    "title": "Portrait of a Young Woman",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACMjIiUlJSUmJycoKCkpKi8rKDctJz0tIzQuKzMvLS4vMDg0MUE0LUQ6MkE+O0U/OkpDPVxUTGFRRn5pWQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIBE5gDJBwvAsAZIUBiM1RwgAOw==",
+    "width": 3412,
+    "height": 4559,
+    "alt_text": "A work made of oil on panel."
+    },
+    "main_reference_number": "1989.100",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1562,
+    "date_end": 1562,
+    "date_display": "1562",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Joachim Beuckelaer\nNetherlandish, c. 1535-c. 1574",
+    "place_of_origin": "Flanders",
+    "dimensions": "16 3/4 × 12 3/4 in. (42.5 × 32.3 cm)",
+    "medium_display": "Oil on panel",
+    "inscriptions": "Inscribed upper right: .1562./ AETATIS / . SVE 24",
+    "credit_line": "Purchased with funds provided by Mrs. George B. Young in memory of her husband; estate of Arma S. Wyler; Alexander A. McKay, Arma S. Wyler and European Painting Purchase funds",
+    "publication_history": "Wilhelm Bode and Max J. Friedländer, Gemälde alter Meister im Besitze seiner Majestät des deutschen Kaisers und Königs von Preussen, ed. Paul Seidel (Berlin, Leipzig, Vienna, and Stuttgart, 1906), pp. 73-74 (ill.), p. 201. \n\nI. Q. van Regteren Altena, \"Nieuwe Pieter Aertszens. I,\" Oud Holland 43 (1926), pp. 217-19, fig. 3. \n\nAry Bob de Vries, Het Noord-Nederlandsch Portret in de Tweede Helft van de 16de Eeuw (Amsterdam, 1934), p. 49. \n\nMax J. Friedländer, Die altniederländische Malerei, vol. 13 (Leyden,1936), pp. 113, 170, no. 341 [rev. ed., Early Netherlandish Painting (Leyden and Brussels, 1975), pp. 59, 101, 117, no. 341, pl. 168]. \n\nG. J. Hoogewerff, De Noord-Nederlandsche Schilderkunst, vol. 4 (The Hague, 1941-42), p. 558. \n\nRobert Genaille, \"L'Oeuvre de Pieter Aertsen,\" Gazette des Beaux-Arts, 6th ser., 44 (1954), p. 286, no. 41. \n\nRobert Genaille, \"Pieter Aertsen, Précurseur de l'Art Rubénien,\" Jaarboek van het Koninklijk Museum voor Schone Kunsten Antwerpen (1977), p. 65, no. 56. \n\nArt Institute of Chicago Annual Report 1988-89 (Chicago, 1989), pp. 3, 22, 55, pl. 5. \n\nW[outer] Th. K[loek], \"Register van het werk van Pieter Aertsen en zijn atelier,\" Nederlands Kunsthistorisch Jaarboek 40 (1989), p. 292. \n\nWouter Th. Kloek, \"Northern Netherlandish Art 1580-1620, A Survey,\" in Amsterdam, Rijksmuseum, Dawn of the Golden Age: Northern Netherlandish Art, 1580-1620, exh. cat. by Ger Luijten et al., 1993, p. 108 n. 30. \n\nJ. Bruyn, \"Een portret van Pieter Aertsen en de Amsterdamse portretschilderkunst 1550 - 1600 met een postscriptum over Huybrecht Beuckelaer (alias Hubbert/Hubbard),\" Oud Holland 113 (1999), pp. 108, 131 n. 14.\n\nTill-Holger Borchert et Koenraad Jonckheere, Portraits de la Penaissance aux Pays-Bas (Brussels, BOZAR, 2015) pp. 162-63",
+    "exhibition_history": "Brussels, Centre for Fine Arts, Renaissance Portraits of the Low Countries, February 5-September 12, 2015.",
+    "provenance_text": "Friedrich Wilhelm von Thulemeier (died 1811) Berlin [according to Christoph Martin Vogtherr, letters of  February 23 and July 12, 2001]; bequeathed to King Friedrich Wilhelm III of Prussia  (died 1840), Schloss, Berlin [Möbelkammer inventory 1824, no. M279]; by descent in Prussian royal collection until 1926 [apportioned to the Hohenzollern family in the 1926 division of the Prussian royal collection between the royal family and the Prussian state and subsequently sold].  Galerie van Diemen, Amsterdam, by 1926 to at least 1930 [according to Van Regteren Altena 1926 and Friedländer 1936].  Mrs. Caroline G. Doty, Swampscott, Massachusetts (died 1988); sold Christie's, New York,11 January 1989, to Marco Grassi as agent for Silvano Lodi, Campione d'Italia; sold to the Art Institute, 1989.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1989,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 16.0865,
+    "color": {
+    "h": 50,
+    "l": 85,
+    "s": 19,
+    "percentage": 0.0004213995099123699,
+    "population": 4
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 49859,
+    "artist_title": "Joachim Beuckelaer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    49859
+    ],
+    "artist_titles": [
+    "Joachim Beuckelaer"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "oil on panel",
+    "painting",
+    "european painting"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-80",
+    "classification_title": "oil on panel",
+    "alt_classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-80",
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "oil on panel",
+    "painting",
+    "european painting"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "11d1c6e6-f051-0a5e-5c7b-57f935b6d181",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1989.100"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Portrait of a Young Woman"
+    ],
+    "weight": 1636,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-27T16:44:21-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:57-05:00", "likes": 0
+    },
+    {
+    "id": 109021,
+    "image": "https://www.artic.edu/iiif/2/fe76a566-9723-d428-8496-189ced37415a/full/1686,/0/default.jpg",
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/109021",
+    "is_boosted": false,
+    "title": "The Battle",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAFFRQ1JSRFxcTV1dTmVlVmppWW1sXHFwYHJxYXZ1ZHh4aHt6anx7aoWEc4aFdY2MepKRf5WUgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4HMYSQEMASIsg8IQCBQ5TQgAOw==",
+    "width": 2266,
+    "height": 2502,
+    "alt_text": "A work made of etching on paper."
+    },
+    "main_reference_number": "1920.2274",
+    "has_not_been_viewed_much": true,
+    "boost_rank": null,
+    "date_start": 1520,
+    "date_end": 1550,
+    "date_display": "ca. 1528-1563",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Hieronymous Hopfer (German, active 1520-1550)\nafter Domenico Campagnola (Italian, c. 1500-1564)",
+    "place_of_origin": "Germany",
+    "dimensions": "244 × 221 mm",
+    "medium_display": "Etching on paper",
+    "inscriptions": null,
+    "credit_line": "The Wallace L. DeWolf and Joseph Brooks Fair Collections",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 10.7427,
+    "color": {
+    "h": 54,
+    "l": 46,
+    "s": 14,
+    "percentage": 0.016818864650186727,
+    "population": 132
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": null,
+    "artwork_type_id": null,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 34993,
+    "artist_title": "Hieronymous Hopfer",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    34993
+    ],
+    "artist_titles": [
+    "Hieronymous Hopfer"
+    ],
+    "category_ids": [
+    "PC-13"
+    ],
+    "category_titles": [
+    "Prints and Drawings"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "etching",
+    "paper (fiber product)",
+    "print",
+    "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-18",
+    "classification_title": "etching",
+    "alt_classification_ids": [
+    "TM-17",
+    "TM-4"
+    ],
+    "classification_ids": [
+    "TM-18",
+    "TM-17",
+    "TM-4"
+    ],
+    "classification_titles": [
+    "etching",
+    "print",
+    "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2982",
+    "alt_material_ids": [],
+    "material_ids": [
+    "TM-2982"
+    ],
+    "material_titles": [
+    "paper (fiber product)"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "fe76a566-9723-d428-8496-189ced37415a",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1920.2274"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "The Battle"
+    ],
+    "weight": 1,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2021-10-21T13:24:54-05:00",
+    "last_updated": "2021-11-01T00:15:51-05:00",
+    "timestamp": "2021-11-01T17:25:58-05:00",
+    "likes": 0
+    }
+    ]
+}
