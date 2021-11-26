@@ -2,7 +2,7 @@
 
 ## Description
 
-Museum Art Gallery is a JavaScript application that uses the Art Institute of Chicago's Application Programming Interface. In the application, the user can view a catalog of museum exhibits. Each artwork is topped with the title of the artwork. Underneath each artwork, there is a list of information concerning that artwork. The block of information highlights the name of the artist, the date the artwork was completed, and the classification of the artwork.
+Museum Art Gallery is a JavaScript application that uses the Art Institute of Chicago's Application Programming Interface. In the application, the user can view a catalog of museum exhibits. Each artwork is topped with the title of the artwork. Underneath each artwork, there is a list of information concerning that artwork. The block of information highlights the name of the artist, the date the artwork was completed, and the classification of the artwork. Click on the [link](https://morgensternjdavid.medium.com/museum-art-gallery-9a4b7cd1aa6e) for a more detailed explanation.
 
 ## Installation
 
