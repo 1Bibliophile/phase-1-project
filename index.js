@@ -53,7 +53,7 @@ const makeArtworkTile = (artwork) => {
         Artist: ${artwork.artist_title} ∙
         Date: ${artwork.date_display} ∙
         Category: ${artwork.department_title} ∙
-        Classification: ${artwork.classification_title} ∙
+        Classification: ${artwork.classification_title} 
         <br>
         <br>
     `
@@ -228,7 +228,7 @@ function searchArt(e)
         })
     }
     */
-    }
+}
 
 
 document.addEventListener("DOMContentLoaded", fetchArtworks);
